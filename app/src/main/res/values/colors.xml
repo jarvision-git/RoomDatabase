@@ -9,5 +9,6 @@
     <color name="buttonNormal">#e30425</color>
     <color name="buttonHighlight">#ff554f</color>
     <color name="buttonText">#FFFFFF</color>
+    <color name="buttonLabel">#FFFFFF</color>
 
 </resources>
